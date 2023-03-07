@@ -1,0 +1,42 @@
+{
+  "name": "tmpl-react18-ts5-vite4",
+  "version": "1.0.0",
+  "description": "<h1>tmpl-react18-ts5-vite4</h1>",
+  "type": "module",
+  "scripts": {
+    "build": "vite build -c config/vite.config.js",
+    "dev": "vite -c config/vite.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aarichwei/tmpl-react18-ts5-vite4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "18.0.0",
+    "react-dom": "18.0.0",
+    "react-router-dom": "6.8.2"
+  },
+  "devDependencies": {
+    "@babel/core": "7.16.0",
+    "@babel/preset-react": "7.16.0",
+    "@types/react": "18.0.0",
+    "@types/react-dom": "18.0.0",
+    "@types/uuid": "8.3.4",
+    "@typescript-eslint/eslint-plugin": "5.5.0",
+    "@typescript-eslint/parser": "5.5.0",
+    "@vitejs/plugin-react": "3.1.0",
+    "babel-loader": "8.2.3",
+    "css-loader": "6.6.0",
+    "less": "4.1.3",
+    "less-loader": "11.1.0",
+    "sass": "1.49.7",
+    "sass-loader": "12.4.0",
+    "style-loader": "3.3.1",
+    "ts-loader": "9.2.6",
+    "typescript": "5.0.0-beta",
+    "vite": "4.1.4"
+  }
+}
